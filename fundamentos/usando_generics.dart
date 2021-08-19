@@ -1,11 +1,11 @@
 main() {
-  var listaCoisas = [
-    "Banana",
-    true,
-    123,
-    4.56,
-    [123]
-  ];
+  //var listaCoisas = [
+  //  "Banana",
+  //  true,
+  //  123,
+  //  4.56,
+  //  [123]
+  //];
 
   print("Inicio");
   List<String> frutas = ["Banana", "Maçã", "Laranja"];
